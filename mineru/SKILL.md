@@ -1,5 +1,5 @@
 ---
-name: MinerU Document Extractor
+name: mineru
 description: Convert PDFs, scanned documents, images, Word (DOC/DOCX), PowerPoint (PPT/PPTX), Excel (XLS/XLSX), and web pages into clean Markdown, HTML, LaTeX, or DOCX. Use this skill when dealing with complex layouts, tables/formulas, and requiring high-fidelity, academic-grade document conversion.
 ---
 
